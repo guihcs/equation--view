@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "equation-view"
+  },
+  "targets": {
+    "equation-view": {
+      "hosting": {
+        "equation-view": [
+          "equation-view"
+        ]
+      }
+    }
+  }
+}
